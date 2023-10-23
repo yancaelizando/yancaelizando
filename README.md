@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yancaelizando!
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning more about UX/UI.
-- 💞️ I’m working at [Da Magrinha](https://damagrinha.com.br/) as a graphic designer.
+- 💞️ I'm working as a graphic designer at [Da Magrinha](https://damagrinha.com.br/).
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/yanca-elizandro-aa1748133/)
 
