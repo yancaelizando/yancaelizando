@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yancaelizando!
+- 👋 Hi, I’m @yancaselizandro!
 - 🌱 I’m currently learning more about UX/UI.
 - 💞️ I'm working as a graphic designer at [Da Magrinha](https://damagrinha.com.br/).
 - 📫 How to reach me:
